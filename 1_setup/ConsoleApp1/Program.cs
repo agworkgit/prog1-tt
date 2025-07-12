@@ -10,8 +10,9 @@ namespace Comp100_Lesson3
     {
         static void Main(string[] args)
         {
-            int myVariable = 0;
-            Console.WriteLine("The variable value is " + myVariable);
+            int myInteger = 0;
+            string myString = "I also wrote my first string";
+            Console.WriteLine("The int variable value is " + myInteger + ", " + myString);
         }
     }
 }
