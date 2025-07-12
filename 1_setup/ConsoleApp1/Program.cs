@@ -7,9 +7,16 @@ using System.Threading.Tasks;
 
 namespace Comp100_Lesson3
 {
+    // The class can be interpreted as a blueprint (an abstracted way of generating objects)
+    // For a language to be considered object oriented, it must support the following features:
+    // - Classes
+    // - Objects
+    // - Encapsulation (hidden information) and Interfaces
+    // - Inheritance (inheriting an object and adding to it)
+    // - Polymorphism
     class Program
     {
-        // This is called a method (or function)
+        // This is called a main method (or function), here's our starting place for our code
         static void Main()
         {
             // Lines of code inside a codeblock
