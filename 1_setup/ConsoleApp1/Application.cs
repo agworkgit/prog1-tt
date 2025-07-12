@@ -11,10 +11,11 @@ namespace Comp100_Lesson3
     // For a language to be considered object oriented, it must support the following features:
     // - Classes
     // - Objects
-    // - Encapsulation (hidden information) and Interfaces
+    // - Encapsulation (hidden information / black box - the engineering details)
+    // - Interfaces (passing messages to request or receive information)
     // - Inheritance (inheriting an object and adding to it)
-    // - Polymorphism
-    class Program
+    // - Polymorphism (inheriting and morphing the class properties)
+    class Application
     {
         // This is called a main method (or function), here's our starting place for our code
         static void Main()
@@ -22,7 +23,10 @@ namespace Comp100_Lesson3
             // Lines of code inside a codeblock
             int myInteger = 0;
             string myString = "I also wrote my first string";
-            Console.WriteLine("The int variable value is " + myInteger + ", " + myString);
+            System.Console.WriteLine("The int variable value is " + myInteger + ", " + myString);
+            Console.WriteLine();
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey(); // waits for a key to be pressed
         }
     }
 }
