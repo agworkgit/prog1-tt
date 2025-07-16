@@ -3,3 +3,5 @@
 -   Lesson code
 -   Other course resources
 -   Projects
+
+## Classes completed: 6/23

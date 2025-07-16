@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/bin/Debug/net9.0/Using_Data
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/bin/Debug/net9.0/Using_Data.deps.json
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/bin/Debug/net9.0/Using_Data.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/bin/Debug/net9.0/Using_Data.dll
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/bin/Debug/net9.0/Using_Data.pdb
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/Using_Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/Using_Data.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/Using_Data.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/Using_Data.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/Using_Data.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/Using_Data.dll
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/refint/Using_Data.dll
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/Using_Data.pdb
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/Using_Data.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/Debug/net9.0/ref/Using_Data.dll
