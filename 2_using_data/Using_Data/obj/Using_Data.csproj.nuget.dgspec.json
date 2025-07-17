@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/Using_Data.csproj": {}
+    "C:\\Users\\pitch\\Source\\Repos\\prog1-tt\\2_using_data\\Using_Data\\Using_Data.csproj": {}
   },
   "projects": {
-    "/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/Using_Data.csproj": {
+    "C:\\Users\\pitch\\Source\\Repos\\prog1-tt\\2_using_data\\Using_Data\\Using_Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/Using_Data.csproj",
+        "projectUniqueName": "C:\\Users\\pitch\\Source\\Repos\\prog1-tt\\2_using_data\\Using_Data\\Using_Data.csproj",
         "projectName": "Using_Data",
-        "projectPath": "/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/Using_Data.csproj",
-        "packagesPath": "/Users/agmacbook/.nuget/packages/",
-        "outputPath": "/Users/agmacbook/Desktop/COMP100/2_using_data/Using_Data/obj/",
+        "projectPath": "C:\\Users\\pitch\\Source\\Repos\\prog1-tt\\2_using_data\\Using_Data\\Using_Data.csproj",
+        "packagesPath": "C:\\Users\\pitch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pitch\\Source\\Repos\\prog1-tt\\2_using_data\\Using_Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/agmacbook/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pitch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
