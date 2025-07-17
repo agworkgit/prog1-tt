@@ -23,8 +23,10 @@ namespace COMP100_using_data
         {
             // The console class is a library of information, we use a dot to access other properties of the class
             int currentYear = 2025;
+            int lastYear = currentYear - 1;
             
             Console.WriteLine("This is the current year - " + currentYear);
+            Console.WriteLine("Last year was - " + lastYear);
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
