@@ -1,4 +1,5 @@
 ﻿// Making first commit from VMWare Fusion Windows 11, Visual Studio 2022
+// Visual Studio fully operational for the next class
 
 // Importing Libraries
 // Using statements
