@@ -219,6 +219,20 @@ namespace COMP100_using_data
                 * Must use a conversion method to convert the input string to the proper type
             */
 
+            /* Example of using ReadLine */
+
+            const double TAX_RATE = 0.06;
+            string itemPriceAsString;
+            double itemPrice;
+            double total;
+            Console.Write("Enter the price of an item >> ");
+            itemPriceAsString = Console.ReadLine();
+            itemPrice = Convert.ToDouble(itemPriceAsString);
+            total = itemPrice + (itemPrice * TAX_RATE);
+            Console.WriteLine("With a tax rate of {0}, a {1} item " + "costs {2}.", TAX_RATE, itemPrice.ToString("C"), total.ToString("C"));
+
+            /* End */
+
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
