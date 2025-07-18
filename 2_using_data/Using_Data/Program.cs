@@ -26,6 +26,14 @@ namespace COMP100_using_data
             int currentYear = 2025;
             int lastYear = currentYear - 1;
             double someMoney = 39.45;
+            float myMoney = 1000.00F; // Storing a true decimal, suffix needed
+
+            /* Different suffix notations for literal conversion:
+            * Put F at the end to make the number a float
+            * Put D at the end to make the number a double (default)
+            * Put M after it to make it a decimal
+            * E stands for exponent (scientific notation)
+            */
 
             // Write - makes the statements go on the same line
             // WriteLine - writes the line then breaks to a new line
@@ -35,7 +43,7 @@ namespace COMP100_using_data
             Console.Write("Your current balance is $");
             Console.WriteLine(someMoney);
             // Using placeholders inside a string to slot in a different value, also called 'string interpolation'
-            Console.WriteLine("The money available is ${0}", someMoney);
+            Console.WriteLine("The money available is ${0}", myMoney);
             Console.WriteLine("{0, 10}", 4); // this will insert the specified number of the 'space' character before 4, essentially formatting our output
             Console.WriteLine("{0, -8}, {1, -8}", "Richard", "Lee"); // String formatting
             Console.WriteLine("{0, -8}, {1, -8}", "Marcia", "Parker"); // {0, -8} String field size (console output formatting)
