@@ -98,11 +98,13 @@ namespace COMP100_using_data
 
             if (employeeWorkedOvertime)
             {
+                // Executes if bool is true
                 // Code to calculate overtime goes here
                 Console.WriteLine("The employee worked: {0} hours in overtime", hoursBalance);
             }
             else
             {
+                // Executes if bool is false, if missing the first block is skipped
                 Console.WriteLine("The employee worked: {0} hours and didn't go overtime", hoursBalance);
             }
 
@@ -120,6 +122,26 @@ namespace COMP100_using_data
             float result = myOtherMoney + yourMoney;
             Console.WriteLine("Final result: {0:C2}", result); // 1031, C2 is currency formatting and 2 decimal places
 
+            /* Understanding numberic type conversion 
+            - Arithmetic with variables or constants of the same type
+                * Result retains the same type
+            - Arithmetic with operands of dissimilar types
+                * C# chooses a unifying type for the result
+                * Implicitly (or automatically) converts nonconforming operands to the unifying type
+                    • Type with the higher type precedence
+                * Not all conversions can be done implicitly
+                    • For example, a double cannot be implicitly converted to an int
+            */
+
+            /* Understanding numberic type conversion (cont'd.)
+            - Implicit cast
+                * Automatic transformation that occurs when a value is assigned to a type with higher precedence
+                * Example: aDouble = anInt;
+            - Explicit cast
+                * Placing the desired result type in parentheses followed by the variable or constant to be cast
+                * Example: anInt = (int)aDouble;
+            */
+            
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
