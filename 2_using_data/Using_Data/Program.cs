@@ -134,14 +134,38 @@ namespace COMP100_using_data
             */
 
             /* Understanding numberic type conversion (cont'd.)
-            - Implicit cast
+            - Implicit cast (sometimes we lose precision, better to do it explicitly)
                 * Automatic transformation that occurs when a value is assigned to a type with higher precedence
                 * Example: aDouble = anInt;
             - Explicit cast
                 * Placing the desired result type in parentheses followed by the variable or constant to be cast
                 * Example: anInt = (int)aDouble;
             */
-            
+
+            /* Using the char data type
+            - char data type
+                * Holds any single Unicode character
+            - Place constant characters values within single quotations marks (e.g., 'A')
+            - Escape sequence
+                * Stores a pair of characters
+                * Begins with a backslash
+                * A pair of symbols represents a single character
+            */
+
+            /* Common escape sequences
+            \' Single quotation mark
+            \" Double quotation mark
+            \\ Backslash
+            \0 Null
+            \a Alert
+            \b Backspace
+            \f Form feed
+            \n New line
+            \r Carriage return
+            \t Horizontal tab
+            \v Vertical tab
+            */
+
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
