@@ -36,6 +36,10 @@ namespace COMP100_using_data
             Console.WriteLine(someMoney);
             // Using placeholders inside a string to slot in a different value, also called 'string interpolation'
             Console.WriteLine("The money available is ${0}", someMoney);
+            Console.WriteLine("{0, 10}", 4); // this will insert the specified number of the 'space' character before 4, essentially formatting our output
+            Console.WriteLine("{0, -8}, {1, -8}", "Richard", "Lee"); // String formatting
+            Console.WriteLine("{0, -8}, {1, -8}", "Marcia", "Parker"); // {0, -8} String field size (console output formatting)
+            Console.WriteLine("Richard " + "Lee");
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
