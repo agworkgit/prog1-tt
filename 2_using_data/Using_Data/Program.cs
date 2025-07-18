@@ -48,6 +48,31 @@ namespace COMP100_using_data
             Console.WriteLine("{0, -8}, {1, -8}", "Richard", "Lee"); // String formatting
             Console.WriteLine("{0, -8}, {1, -8}", "Marcia", "Parker"); // {0, -8} String field size (console output formatting)
             Console.WriteLine("Richard " + "Lee");
+
+            /* Using Arithmetic Operators
+            * + Addition
+            * - Subtraction
+            * * Multiplication
+            * / Division
+            * % Remainder (modulus/mod)
+            */
+
+            /* Using Shortcut Arithmetic Operators
+            - Add and assign operators
+            * Example : bankBal += bankBal * interestRate;
+            * Variations : -=, *=, /=, and %=
+            - Prefix increment operator
+            * Example : ++someValue;
+            - Suffix increment operator
+            * Example : someValue++;
+            */
+
+            float myOtherMoney = 1000.00F;
+            float yourMoney = 20.00F;
+
+            float result = myOtherMoney + yourMoney;
+            Console.WriteLine("Final result: {0}", result);
+
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
