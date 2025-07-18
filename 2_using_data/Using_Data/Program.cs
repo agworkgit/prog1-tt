@@ -25,9 +25,17 @@ namespace COMP100_using_data
             // The console class is a library of information, we use a dot to access other properties of the class
             int currentYear = 2025;
             int lastYear = currentYear - 1;
-            
+            double someMoney = 39.45;
+
+            // Write - makes the statements go on the same line
+            // WriteLine - writes the line then breaks to a new line
+            // ReadKey - will wait for some input to exit
             Console.WriteLine("This is the current year - " + currentYear);
             Console.WriteLine("Last year was - " + lastYear);
+            Console.Write("Your current balance is $");
+            Console.WriteLine(someMoney);
+            // Using placeholders inside a string to slot in a different value, also called 'string interpolation'
+            Console.WriteLine("The money available is ${0}", someMoney);
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
