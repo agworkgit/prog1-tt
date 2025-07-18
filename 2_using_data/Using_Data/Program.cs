@@ -166,6 +166,59 @@ namespace COMP100_using_data
             \v Vertical tab
             */
 
+            /* Using the string data type
+            - string data type
+                * Holds a series of characters
+            - Values are expressed within double quotation marks
+            - Comparing strings
+                * Use == and !=
+                * Use the Equals() method, Compare() method, and CompareTo() method
+            - Use the Length property of a string to determine its length
+                * Example:
+                string aString = "How long is this string?"
+                Console.WriteLine("{0} is {1} characters long", aString, aString.Length);
+            - Use the Substring() method to extract a portion of a string from a starting point for a specific length
+                * Example:
+                string word = "water"
+                word.Substring(0, 1) is "w"
+                word.Substring(2, 3) is "ter"
+                word.Substring(3, 4) produces an error message 
+            */
+
+            /* Defining Named Constants 
+            - Named constant
+                * Often simply called a constant
+                * An idetifier whose contents cannot change
+                * Created using the keyword const
+            - Programmers usually name constants using the uppercase letters, inserting underscores for readability
+            - Self-documenting statement
+                * Easy to understand even without program comments
+            */
+
+            /* Working with Enumerations
+            - An enumeration is a set of constants represented by identifiers
+            - Enumeration example named DayOfWeek:
+                enum DayOfWeek
+                {
+                    SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
+                }
+            - By default, enumeration values are integers
+                * Can specify otherwise by including a colon and a type name after the enumeration name
+            - The identifiers in an enumeration are often meant to hold consecutive values
+                * When you don't supply values, they start at 0 and increment by 1
+                * In the DayOfWeek enumeration, SUNDAY is 0, MONDAY is 1, and so on
+            */
+
+            /* Accepting Console Input
+            - Interactive program
+                * A program that allows user input
+            - Console.ReadLine() method
+                * Accepts user input from the keyboard
+                * Accepts all of the characters entered by a user until the user presses Enter
+                * Characters can be assigned to a string
+                * Must use a conversion method to convert the input string to the proper type
+            */
+
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
