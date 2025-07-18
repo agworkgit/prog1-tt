@@ -233,6 +233,34 @@ namespace COMP100_using_data
 
             /* End */
 
+            /* Another example of console input */
+
+            int myValue = 20;
+            Console.WriteLine("Enter any value: ");
+            string newValue = Console.ReadLine();
+            myValue += Convert.ToInt32(newValue);
+            Console.WriteLine("You typed {0}, converted string is {1}", newValue, myValue);
+
+            /* Selected Convert class methods
+             * Method - Description
+             * ToBoolean() - Converts to an equivalent Boolean value
+             * ToByte() - Converts to an 8-bit unsigned integer
+             * ToChar() - Converts to a Unicode character
+             * ToDecimal() - Converts to a decimal number
+             * ToDouble() - Converts to a double precision floating point
+             * ToInt16() - Converts to a 16-bit signed integer (a short)
+             * ToInt32() - Converts to a 32-bit signed integer (an int)
+             * ToInt64() - Converts to a 64-bit signed integer (a long)
+             * ToSByte() - Converts to an 8-bit signed integer
+             * ToSingle() - Converts to a single precision floating point number
+             * ToString() - Converts to its equivalent String representation
+             * ToUInt16() - Converts to a 16-bit unsigned integer
+             * ToUInt32() - Converts to a 32-bit unsigned integer
+             * ToUInt64() - Converts to a 64-bit unsigned integer
+             */
+
+
+
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
         }
