@@ -273,3 +273,22 @@ namespace COMP100_using_data
 // 2. D - Placeholder (consists of a pair of curly braces containing the number that indicates the desired variables's position - string interpolation)
 // 3. B - bool (indicates Boolean variable type)
 // 4. A - = is the C# assignment operator
+
+// ASSIGNMENT 1 - time yourself in this
+
+/* 
+1. Write a short program to prompt the user to enter a single character. The program should display a message like "Your response was y" back to the console. For this question, you must use a variable of type char for the character entered.
+
+2. Write a short program to ask the user about the validity of a simple statement. The program should prompt for the statement (programmer's choice) and accept the response then display the statement as well as the response to the console. The response should be true or false. For this question, you must use a variable of type bool to store the response data.
+
+3. Write a short program to calculate the area of a circle. The user will enter the radius of the
+circle and the program will calculate the area according to the formula (area = 3.14 * radius *
+radius). The result will be displayed to the console. You must accept fractions as the input.
+
+4. Write a program to calculate and display the potential difference between the ends of a wire.
+The program will prompt the user for the current flowing and the resistance of the wire.
+(Potential difference is the product of the current and the resistance of the wire and may include a fractional part). The result will be displayed to the console.
+
+5. Write a program to prompt the user for the amount of adult and child tickets that she needs.
+Adult tickets cost $3.75 and child tickets cost $2.25. The program will display a user-friendly message to the console of the number of tickets purchased as well as the total cost. Use the "C" format-specifier for currency.
+ */
