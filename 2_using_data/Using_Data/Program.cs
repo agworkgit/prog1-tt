@@ -126,7 +126,7 @@ namespace COMP100_using_data
     }
 }
 
-// QUIZ
+// QUIZ 1
 
 // 1. A - Variable (a named location in computer memory that can hold different values at different times)
 // 2. D - Placeholder (consists of a pair of curly braces containing the number that indicates the desired variables's position - string interpolation)
