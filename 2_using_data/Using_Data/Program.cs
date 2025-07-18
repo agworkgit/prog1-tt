@@ -65,13 +65,60 @@ namespace COMP100_using_data
             * Example : ++someValue;
             - Suffix increment operator
             * Example : someValue++;
+            - Unary operator
+            * Uses only one value, example: -123
+            - Decrement operator
+            * Can be prefixed or suffixed to subtract 1 and show result
             */
+
+            /* Using the bool data type
+            - Boolean variable
+            * Can hold only one of two values - true or false
+            * Declare a Boolean variable with type bool
+            - Comparison operator
+            * Compares two items
+            * An expression containing a comparison operator returns a Boolean value
+            */
+
+            /* Comparison operators
+            * < Less than
+            * > Greater than
+            * == Equal to
+            * <= Less than or equal to
+            * >= Greater than or equal to
+            * != Not equal to
+            */
+
+            // Example using a bool data type and a comparison operator
+
+            int hoursWorked = 30;
+            int threshold = 40;
+            int hoursBalance = threshold - hoursWorked;
+            bool employeeWorkedOvertime = hoursWorked > threshold;
+
+            if (employeeWorkedOvertime)
+            {
+                // Code to calculate overtime goes here
+                Console.WriteLine("The employee worked: {0} hours in overtime", hoursBalance);
+            }
+            else
+            {
+                Console.WriteLine("The employee worked: {0} hours and didn't go overtime", hoursBalance);
+            }
+
+            // Bool result - FALSE
+            // Final result - The employee worked: 10 hours and didn't go overtime
+
+            // Working with floats below
 
             float myOtherMoney = 1000.00F;
             float yourMoney = 20.00F;
+            myOtherMoney += 10.00F;
+            myOtherMoney++; // Adds 1 to the current value
+            // There exists also decrement (-1), example: myOtherMoney--
 
             float result = myOtherMoney + yourMoney;
-            Console.WriteLine("Final result: {0}", result);
+            Console.WriteLine("Final result: {0:C2}", result); // 1031, C2 is currency formatting and 2 decimal places
 
             Console.WriteLine("Press any key to EXIT...");
             Console.ReadKey();
