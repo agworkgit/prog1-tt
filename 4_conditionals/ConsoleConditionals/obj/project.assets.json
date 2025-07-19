@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/agmacbook/Desktop/COMP100/4_conditionals/CosoleConditionals/CosoleConditionals.csproj",
-      "projectName": "CosoleConditionals",
-      "projectPath": "/Users/agmacbook/Desktop/COMP100/4_conditionals/CosoleConditionals/CosoleConditionals.csproj",
+      "projectUniqueName": "/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/ConsoleConditionals.csproj",
+      "projectName": "ConsoleConditionals",
+      "projectPath": "/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/ConsoleConditionals.csproj",
       "packagesPath": "/Users/agmacbook/.nuget/packages/",
-      "outputPath": "/Users/agmacbook/Desktop/COMP100/4_conditionals/CosoleConditionals/obj/",
+      "outputPath": "/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/agmacbook/.nuget/NuGet/NuGet.Config"

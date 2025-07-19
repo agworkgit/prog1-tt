@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/bin/Debug/net9.0/ConsoleConditionals
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/bin/Debug/net9.0/ConsoleConditionals.deps.json
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/bin/Debug/net9.0/ConsoleConditionals.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/bin/Debug/net9.0/ConsoleConditionals.dll
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/bin/Debug/net9.0/ConsoleConditionals.pdb
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ConsoleConditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ConsoleConditionals.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ConsoleConditionals.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ConsoleConditionals.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ConsoleConditionals.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ConsoleConditionals.dll
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/refint/ConsoleConditionals.dll
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ConsoleConditionals.pdb
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ConsoleConditionals.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/4_conditionals/ConsoleConditionals/obj/Debug/net9.0/ref/ConsoleConditionals.dll
