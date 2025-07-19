@@ -6,7 +6,7 @@
 
 ## Classes completed: 9/23
 
-## Current class: More Data Types, Numeric Type Conversions & Assignment 1
+## Current class: Conditionals
 
 ## Assignments completed: 1/?
 
