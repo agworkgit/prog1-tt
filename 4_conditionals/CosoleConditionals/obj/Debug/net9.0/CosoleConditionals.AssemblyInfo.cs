@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CosoleConditionals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35f39814eb60019257b103dc6a99c92033bc463c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29e78966515a429c0ae1fe0f493fc584c4e0ca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CosoleConditionals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CosoleConditionals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
