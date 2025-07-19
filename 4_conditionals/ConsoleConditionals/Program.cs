@@ -37,7 +37,7 @@ namespace Conditionals
             Console.WriteLine("-----------------------------------------");
             Console.Write("Do you have some money?: ");
             string init = Console.ReadLine();
-            if (init.Length > 2 && init.ToLower() != "false")
+            if (init.Substring(0, 1).ToLower() == "y" || init.Substring(0, 1).ToLower() == "t")
             {
                 Console.Write("What is your current month balance?: ");
                 double prompt = Convert.ToDouble(Console.ReadLine());
