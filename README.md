@@ -6,7 +6,9 @@
 
 ## Classes completed: 8/23
 
-## Current class: Using Data
+## Assignments completed: 1/?
+
+## Current class: More Data Types, Numeric Type Conversions & Assignment 1
 
 ## Notes:
 
