@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/bin/Debug/net9.0/ConsoleAssignmentApps
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/bin/Debug/net9.0/ConsoleAssignmentApps.deps.json
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/bin/Debug/net9.0/ConsoleAssignmentApps.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/bin/Debug/net9.0/ConsoleAssignmentApps.dll
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/bin/Debug/net9.0/ConsoleAssignmentApps.pdb
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ConsoleAssignmentApps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ConsoleAssignmentApps.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ConsoleAssignmentApps.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ConsoleAssignmentApps.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ConsoleAssignmentApps.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ConsoleAssignmentApps.dll
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/refint/ConsoleAssignmentApps.dll
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ConsoleAssignmentApps.pdb
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ConsoleAssignmentApps.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/3_assignment_1/ConsoleAssignmentApps/obj/Debug/net9.0/ref/ConsoleAssignmentApps.dll

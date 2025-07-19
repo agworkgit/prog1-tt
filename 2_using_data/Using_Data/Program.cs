@@ -281,9 +281,7 @@ namespace COMP100_using_data
 
 2. Write a short program to ask the user about the validity of a simple statement. The program should prompt for the statement (programmer's choice) and accept the response then display the statement as well as the response to the console. The response should be true or false. For this question, you must use a variable of type bool to store the response data.
 
-3. Write a short program to calculate the area of a circle. The user will enter the radius of the
-circle and the program will calculate the area according to the formula (area = 3.14 * radius *
-radius). The result will be displayed to the console. You must accept fractions as the input.
+3. Write a short program to calculate the area of a circle. The user will enter the radius of the circle and the program will calculate the area according to the formula (area = 3.14 * radius * radius). The result will be displayed to the console. You must accept fractions as the input.
 
 4. Write a program to calculate and display the potential difference between the ends of a wire.
 The program will prompt the user for the current flowing and the resistance of the wire.
