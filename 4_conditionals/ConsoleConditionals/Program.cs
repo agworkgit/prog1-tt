@@ -35,9 +35,9 @@ namespace Conditionals
 
             Console.WriteLine("Daily allowance calculator");
             Console.WriteLine("-----------------------------------------");
-            Console.Write("Do you have some money? (Y/N): ");
+            Console.Write("Do you have some money?: ");
             string init = Console.ReadLine();
-            if (init == "Y")
+            if (init.Length > 2 && init.ToLower() != "false")
             {
                 Console.Write("What is your current month balance?: ");
                 double prompt = Convert.ToDouble(Console.ReadLine());

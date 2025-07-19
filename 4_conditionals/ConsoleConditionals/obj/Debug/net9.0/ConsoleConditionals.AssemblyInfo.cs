@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleConditionals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18ad900ea47d2bbda05295e54808197b4d9c0df5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6f05a2ee04ed7f15d07c08854a28c63cdf88cfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleConditionals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleConditionals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
