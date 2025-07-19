@@ -4,11 +4,11 @@
 -   Other course resources
 -   Projects
 
-## Classes completed: 8/23
-
-## Assignments completed: 1/?
+## Classes completed: 9/23
 
 ## Current class: More Data Types, Numeric Type Conversions & Assignment 1
+
+## Assignments completed: 1/?
 
 ## Notes:
 
