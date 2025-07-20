@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/agmacbook/Desktop/COMP100/5_employee_badge/EmployeeBadge/EmployeeBadge.csproj",
-      "projectName": "EmployeeBadge",
-      "projectPath": "/Users/agmacbook/Desktop/COMP100/5_employee_badge/EmployeeBadge/EmployeeBadge.csproj",
+      "projectUniqueName": "/Users/agmacbook/Desktop/COMP100/5_constants/Constants/Constants.csproj",
+      "projectName": "Constants",
+      "projectPath": "/Users/agmacbook/Desktop/COMP100/5_constants/Constants/Constants.csproj",
       "packagesPath": "/Users/agmacbook/.nuget/packages/",
-      "outputPath": "/Users/agmacbook/Desktop/COMP100/5_employee_badge/EmployeeBadge/obj/",
+      "outputPath": "/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/agmacbook/.nuget/NuGet/NuGet.Config"

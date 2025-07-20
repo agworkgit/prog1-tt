@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/bin/Debug/net9.0/Constants
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/bin/Debug/net9.0/Constants.deps.json
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/bin/Debug/net9.0/Constants.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/bin/Debug/net9.0/Constants.dll
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/bin/Debug/net9.0/Constants.pdb
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/Constants.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/Constants.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/Constants.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/Constants.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/Constants.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/Constants.dll
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/refint/Constants.dll
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/Constants.pdb
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/Constants.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/5_constants/Constants/obj/Debug/net9.0/ref/Constants.dll
