@@ -4,9 +4,9 @@
 -   Other course resources
 -   Projects
 
-## Classes completed: 9/23
+## Classes completed: 10/23
 
-## Current class: Conditionals
+## Current class: Constants
 
 ## Assignments completed: 1/?
 
