@@ -29,3 +29,17 @@
     Used to make a single-alternative decision
 -   Block
     One or more statements contained within a pair of curly braces
+
+## Nested if
+
+-   One decision structure, or if statement that is contained within another
+-   Decision strucutres can be nested to multiple levels
+-   If an outer level if statement fails or retuns a false result, all inner blocks of code are ignored
+-   Creating too many levels can result in code that is difficult to understand and maintain
+
+## Making Decisions Using if/else Statement
+
+-   Dual-alternative decisions
+    Have two possible outcomes
+-   if-else statement
+    Used to perform one acion when Boolean expression evaluates to true, and an alternative action whe it evaluates to false
