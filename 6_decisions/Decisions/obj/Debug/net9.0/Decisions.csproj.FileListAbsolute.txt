@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/bin/Debug/net9.0/Decisions
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/bin/Debug/net9.0/Decisions.deps.json
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/bin/Debug/net9.0/Decisions.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/bin/Debug/net9.0/Decisions.dll
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/bin/Debug/net9.0/Decisions.pdb
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/Decisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/Decisions.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/Decisions.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/Decisions.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/Decisions.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/Decisions.dll
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/refint/Decisions.dll
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/Decisions.pdb
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/Decisions.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/6_decisions/Decisions/obj/Debug/net9.0/ref/Decisions.dll
