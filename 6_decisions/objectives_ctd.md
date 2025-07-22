@@ -53,3 +53,25 @@
 ## Short-circuit evaluation
 
 -   Expressions in each part of an AND expression are evaluated only as much as necessary to determine whether the entire expression is true or false
+
+## Using the conditional OR operator
+
+-   Used when you want some action to occur even if only one of two conditions is true
+-   Written as two pipes ||
+-   You must include a complete Boolean expression on each side of the operator
+-   This conditional will usually the false when both conditions are false
+
+## Short-circuit evaluation
+
+-   Expressions in each part of an OR expression are evaluated only as much as necessary to determine whether the entire expression is true or false
+
+## Making decisions using the switch statement
+
+-   switch structure
+    Tests a single variable agains a series of exact matches
+-   keywords
+    switch, case, break, and default
+-   Governing types
+    sbyte, byte, short, ushort, int, uint, long, ulong, char, string, and enum
+-   A switch does not need a default case
+    Good programming practice to include one
