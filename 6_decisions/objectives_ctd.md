@@ -43,3 +43,13 @@
     Have two possible outcomes
 -   if-else statement
     Used to perform one acion when Boolean expression evaluates to true, and an alternative action whe it evaluates to false
+
+## Using the conditional AND operator
+
+-   Determines whether two expressions are both true
+-   Written as two ampersands (&&)
+-   You must include a complete Boolean expression on each side of the operator
+
+## Short-circuit evaluation
+
+-   Expressions in each part of an AND expression are evaluated only as much as necessary to determine whether the entire expression is true or false
