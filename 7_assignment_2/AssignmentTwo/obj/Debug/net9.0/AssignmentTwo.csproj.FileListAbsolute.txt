@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/bin/Debug/net9.0/AssignmentTwo
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/bin/Debug/net9.0/AssignmentTwo.deps.json
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/bin/Debug/net9.0/AssignmentTwo.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/bin/Debug/net9.0/AssignmentTwo.dll
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/bin/Debug/net9.0/AssignmentTwo.pdb
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/AssignmentTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/AssignmentTwo.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/AssignmentTwo.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/AssignmentTwo.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/AssignmentTwo.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/AssignmentTwo.dll
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/refint/AssignmentTwo.dll
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/AssignmentTwo.pdb
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/AssignmentTwo.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/7_assignment_2/AssignmentTwo/obj/Debug/net9.0/ref/AssignmentTwo.dll
