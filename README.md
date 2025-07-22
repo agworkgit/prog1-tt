@@ -4,11 +4,11 @@
 -   Other course resources
 -   Projects
 
-## Classes completed: 11/23
+## Classes completed: 12/23
 
-## Current class: Decisions Continued
+## Current class: Decisions (Switch Statements)
 
-## Assignments completed: 1/?
+## Assignments completed: 2/?
 
 ## Notes:
 
