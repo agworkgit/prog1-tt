@@ -77,24 +77,42 @@ namespace Decisions
                 } */
 
             // Switch Statement example
-            int getAge;
+            int favouriteBrowser;
             string prompt;
 
-            Console.Write("Please enter your age: ");
+            Console.WriteLine("Q1. What's your favourite browser? >> ");
+            Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+            Console.WriteLine("1 - Edge");
+            Console.WriteLine("2 - Chrome");
+            Console.WriteLine("3 - Safari");
+            Console.WriteLine("4 - Firefox");
+            Console.WriteLine("5 - Vivaldi");
+            Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+            Console.WriteLine("Please make your selection (1 to 4): ");
             prompt = Console.ReadLine();
             Console.Write("\n"); // same as WriteLine
-            getAge = Convert.ToInt32(prompt);
 
-            switch (getAge)
+            favouriteBrowser = Convert.ToInt32(prompt);
+
+            switch (favouriteBrowser)
             {
-                case 10:
-                    Console.WriteLine("Okay, you're 10 years old!");
+                case 1:
+                    Console.WriteLine("You chose Edge!");
                     break;
-                case 15:
-                    Console.WriteLine("You can almost drive.");
+                case 2:
+                    Console.WriteLine("You chose Chrome, the most popular browser.");
+                    break;
+                case 3:
+                    Console.WriteLine("You chose the best browser for Macs, Safari.");
+                    break;
+                case 4:
+                    Console.WriteLine("You must like open source a lot, your choice is Firefox.");
+                    break;
+                case 5:
+                    Console.WriteLine("Customisation and privacy is a must for you, you selected Vivaldi.");
                     break;
                 default:
-                    Console.WriteLine("You are {0} years old.", getAge);
+                    Console.WriteLine("You're favourite browser is {0}.", favouriteBrowser);
                     break;
             }
 

@@ -79,3 +79,64 @@
     Not allowing code to reach the end of a case
     Not allowed in C#
     Use a break statement at the end of each case
+-   You can use multiple labels to govern a list of statements
+
+*   Example of switch structure using multiple labels to execute a single statement block:
+
+```
+switch(year) {
+    case 1:
+        Console.WriteLine("Freshman");
+        break;
+    case 2:
+        Console.WriteLine("Sophomore");
+        break;
+    case 3:
+    case 4:
+        Console.WriteLine("Upperclass");
+        break;
+    default:
+        Console.WriteLine("Invalid year")
+        break;
+}
+```
+
+case 3 and case 4 are both "Upperclass", showcasing fall through.
+
+-   Using an enumeration with a switch structure is often convenient
+
+```
+using System;
+
+class DivisionBasedOnMajor
+{
+    enum Major
+    {
+        ACCOUNTING = 1, CIS, ENGLISH, MATH, MARKETING
+    }
+
+    static void Main()
+    {
+        int major;
+        string message;
+        Console.Write("Enter major code >> ");
+        major = Convert.ToInt32(Console.ReadLine());
+
+        switch((Major) major)
+        {
+            case Major.ACCOUNTING:
+            case Major.CIS:
+            case Major.MARKETING:
+                message = "Major is in the Business Division";
+                break;
+            case Major.ENGLISH:
+            case Major.MATH:
+                message = "Major is in the Humanities Division";
+            default:
+                message = "Department number is invalid";
+                break;
+        }
+        Console.WriteLine(message);
+    }
+}
+```
