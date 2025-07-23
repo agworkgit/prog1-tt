@@ -9,6 +9,10 @@ namespace Decisions
 {
     class Program
     {
+        enum Browser // enumerations must be outside Main()
+        {
+            EDGE = 1, CHROME = 2, SAFARI = 3, FIREFOX = 4, VIVALDI = 5
+        }
         static void Main()
         {
             int age;
@@ -77,8 +81,10 @@ namespace Decisions
                 } */
 
             // Switch Statement example
+
             int favouriteBrowser;
             string prompt;
+            bool answer;
 
             Console.WriteLine("Q1. What's your favourite browser? >> ");
             Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
@@ -94,27 +100,30 @@ namespace Decisions
 
             favouriteBrowser = Convert.ToInt32(prompt);
 
-            switch (favouriteBrowser)
+            switch ((Browser)favouriteBrowser) // we're casting Browser (enum) to int
             {
-                case 1:
+                case Browser.EDGE:
                     Console.WriteLine("You chose Edge!");
                     break;
-                case 2:
+                case Browser.CHROME:
                     Console.WriteLine("You chose Chrome, the most popular browser.");
                     break;
-                case 3:
+                case Browser.SAFARI:
                     Console.WriteLine("You chose the best browser for Macs, Safari.");
                     break;
-                case 4:
+                case Browser.FIREFOX:
                     Console.WriteLine("You must like open source a lot, your choice is Firefox.");
                     break;
-                case 5:
+                case Browser.VIVALDI:
                     Console.WriteLine("Customisation and privacy is a must for you, you selected Vivaldi.");
                     break;
                 default:
                     Console.WriteLine("You're favourite browser is {0}.", favouriteBrowser);
                     break;
             }
+
+            // Using ternary
+            answer = (Browser)favouriteBrowser == Browser.CHROME ? true : false;
 
             Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 

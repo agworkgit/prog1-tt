@@ -140,3 +140,25 @@ class DivisionBasedOnMajor
     }
 }
 ```
+
+## Using the conditional operator
+
+-   Conditional operator
+    Used as an abbreviated version of the if-else statement
+    A ternary operator that takes three parameters
+-   Syntax
+    testExpression ? trueResult : falseResult
+-   Example
+    Console.WriteLine((testScore >= 60) ? "Pass" : "Fail");
+
+## Using the NOT operator
+
+-   NOT operator
+    Written as an exclamation point (!)
+    Negates the result of any Boolean expression
+
+    -   If the Boolean expression is true, ! makes it false
+    -   If the Boolean expression is false, ! makes it true
+
+    Logic using the ! operator can be difficult to read and analyse
+    The ! operator has higher precendance than && and ||
