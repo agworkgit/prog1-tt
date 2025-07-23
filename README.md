@@ -4,9 +4,9 @@
 -   Other course resources
 -   Projects
 
-## Classes completed: 12/23
+## Classes completed: 13/23
 
-## Current class: Decisions (Switch Statements)
+## Current class: Looping
 
 ## Assignments completed: 2/?
 
