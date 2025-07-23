@@ -40,6 +40,7 @@ namespace Decisions
             {
                 Console.WriteLine("Error - Invalid input!");
             }
+            Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 
             /* if (prompt == 0)
                 {
@@ -74,6 +75,30 @@ namespace Decisions
                         Console.WriteLine("Error - Invalid input, only numbers above 0 are accepted!");
                     }
                 } */
+
+            // Switch Statement example
+            int getAge;
+            string prompt;
+
+            Console.Write("Please enter your age: ");
+            prompt = Console.ReadLine();
+            Console.Write("\n"); // same as WriteLine
+            getAge = Convert.ToInt32(prompt);
+
+            switch (getAge)
+            {
+                case 10:
+                    Console.WriteLine("Okay, you're 10 years old!");
+                    break;
+                case 15:
+                    Console.WriteLine("You can almost drive.");
+                    break;
+                default:
+                    Console.WriteLine("You are {0} years old.", getAge);
+                    break;
+            }
+
+            Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();

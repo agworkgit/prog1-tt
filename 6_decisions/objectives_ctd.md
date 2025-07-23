@@ -75,3 +75,7 @@
     sbyte, byte, short, ushort, int, uint, long, ulong, char, string, and enum
 -   A switch does not need a default case
     Good programming practice to include one
+-   "No fall through rule"
+    Not allowing code to reach the end of a case
+    Not allowed in C#
+    Use a break statement at the end of each case
