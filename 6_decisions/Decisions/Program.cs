@@ -83,7 +83,7 @@ namespace Decisions
             // Switch Statement example
 
             int favouriteBrowser;
-            string prompt;
+            int prompt;
             bool answer;
 
             Console.WriteLine("Q1. What's your favourite browser? >> ");
@@ -95,7 +95,7 @@ namespace Decisions
             Console.WriteLine("5 - Vivaldi");
             Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
             Console.WriteLine("Please make your selection (1 to 4): ");
-            prompt = Console.ReadLine();
+            prompt = Convert.ToInt32(Console.ReadLine());
             Console.Write("\n"); // same as WriteLine
 
             favouriteBrowser = Convert.ToInt32(prompt);

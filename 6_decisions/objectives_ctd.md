@@ -162,3 +162,81 @@ class DivisionBasedOnMajor
 
     Logic using the ! operator can be difficult to read and analyse
     The ! operator has higher precendance than && and ||
+
+## Avoiding common errors when making decisions
+
+-   Most frequent errors include:
+    Using the assignment operator (=) instead of the comparison operator (==)
+    Inserting a semicolon after the Boolean expression in an if statement
+    Failing to block a set of statements with curly braces
+    Failing to include a complete Boolean expression on each side of an && or || operator
+
+## Performing accurate and efficient range checks
+
+-   Range check
+    A series of if statements that determine whether a value falls within a specified range
+
+-   Problem
+
+    ```
+    if (saleAmount >= 1000)
+        commissionRate = 0.08;
+    if (saleAmount >= 500)
+        commissionRate = 0.06;
+    if (saleAmount <= 499)
+        commissionRate = 0.05;
+    ```
+
+    Don't Do It
+    Although it wasn't the programmer's intention,
+    both of the first two if statements are true for any saleAmount
+    greater than or equal to 1000.
+
+-   Solution
+
+    ```
+    if (saleAmount >= 1000)
+    {
+        commissionRate = 0.08;
+    }
+    else if (saleAmount >= 500)
+    {
+        commissionRate = 0.06;
+    }
+    else
+    {
+        commissionRate = 0.05;
+    }
+    ```
+
+## Using && and || appropriately
+
+-   Problem
+    Print an error message when an employee's hourly pay rate is less than $5.65 and when an employee's hourly pay rate is greater than $60
+
+-   Solution
+    ```
+    if (payRate < 5.65 || payRate > 60)
+    {
+        Console.WriteLine("Error in pay rate");
+    }
+    ```
+
+## Using the ! operator correctly
+
+-   Problem
+    Make sure that if the sales code is not 'A' or 'B', the customer gets a 10% discount
+
+-   Solutions
+
+    ```
+    if (salesCode != 'A' && salesCode != 'B')
+    {
+    discount = 0.10;
+    }
+
+    if (!(salesCode == 'A' || salesCode == 'B'))
+    {
+    discount = 0.10;
+    }
+    ```
