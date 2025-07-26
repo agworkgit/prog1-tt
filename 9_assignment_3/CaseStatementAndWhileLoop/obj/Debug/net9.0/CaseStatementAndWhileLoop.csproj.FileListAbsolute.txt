@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/bin/Debug/net9.0/CaseStatementAndWhileLoop
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/bin/Debug/net9.0/CaseStatementAndWhileLoop.deps.json
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/bin/Debug/net9.0/CaseStatementAndWhileLoop.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/bin/Debug/net9.0/CaseStatementAndWhileLoop.dll
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/bin/Debug/net9.0/CaseStatementAndWhileLoop.pdb
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/CaseStatementAndWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/CaseStatementAndWhileLoop.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/CaseStatementAndWhileLoop.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/CaseStatementAndWhileLoop.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/CaseStatementAndWhileLoop.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/CaseStatementAndWhileLoop.dll
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/refint/CaseStatementAndWhileLoop.dll
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/CaseStatementAndWhileLoop.pdb
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/CaseStatementAndWhileLoop.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/9_assignment_3/CaseStatementAndWhileLoop/obj/Debug/net9.0/ref/CaseStatementAndWhileLoop.dll
