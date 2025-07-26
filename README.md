@@ -8,7 +8,7 @@
 
 ## Current class: Looping
 
-## Assignments completed: 2/?
+## Assignments completed: 3/?
 
 ## Notes:
 
