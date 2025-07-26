@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/bin/Debug/net9.0/Looping
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/bin/Debug/net9.0/Looping.deps.json
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/bin/Debug/net9.0/Looping.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/bin/Debug/net9.0/Looping.dll
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/bin/Debug/net9.0/Looping.pdb
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/Looping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/Looping.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/Looping.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/Looping.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/Looping.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/Looping.dll
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/refint/Looping.dll
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/Looping.pdb
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/Looping.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/8_looping/Looping/obj/Debug/net9.0/ref/Looping.dll
