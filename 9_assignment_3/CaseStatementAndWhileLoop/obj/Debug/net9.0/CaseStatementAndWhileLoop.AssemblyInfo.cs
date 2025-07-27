@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaseStatementAndWhileLoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32266ff831c8e413bd74f53c8c23a8770bb624f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d30479988dd9f162f14263d2b0cc048614fba78e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaseStatementAndWhileLoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaseStatementAndWhileLoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

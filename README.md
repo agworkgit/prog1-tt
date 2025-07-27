@@ -4,9 +4,9 @@
 -   Other course resources
 -   Projects
 
-## Classes completed: 13/23
+## Classes completed: 14/23
 
-## Current class: Looping
+## Current class: Other Types Of Loops (while, for, do)
 
 ## Assignments completed: 3/?
 
