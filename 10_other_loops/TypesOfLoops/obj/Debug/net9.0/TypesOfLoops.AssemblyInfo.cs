@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TypesOfLoops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d989b7f6936b8e20b947fd2f687ae4ac8d89af7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+482f5f6ea838ef535d215de6dc09cab71a8e6885")]
 [assembly: System.Reflection.AssemblyProductAttribute("TypesOfLoops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TypesOfLoops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
