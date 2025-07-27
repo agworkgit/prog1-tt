@@ -47,7 +47,7 @@ namespace TypesOfLoops
                         break;
                     case 3:
                         Console.Write("\n"); // same as an empty WriteLine
-                        for (int count = 1; count <= MAX_TURNS; count++)
+                        for (int count = 1; count <= MAX_TURNS; count += 2) // instead of count++ you can use other values such as count += 2 to count by 2
                         {
                             Console.WriteLine("Count is: {0}", count);
                         }
