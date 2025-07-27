@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/bin/Debug/net9.0/TypesOfLoops
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/bin/Debug/net9.0/TypesOfLoops.deps.json
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/bin/Debug/net9.0/TypesOfLoops.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/bin/Debug/net9.0/TypesOfLoops.dll
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/bin/Debug/net9.0/TypesOfLoops.pdb
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/TypesOfLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/TypesOfLoops.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/TypesOfLoops.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/TypesOfLoops.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/TypesOfLoops.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/TypesOfLoops.dll
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/refint/TypesOfLoops.dll
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/TypesOfLoops.pdb
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/TypesOfLoops.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/10_other_loops/TypesOfLoops/obj/Debug/net9.0/ref/TypesOfLoops.dll
