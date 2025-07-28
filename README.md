@@ -4,9 +4,9 @@
 -   Other course resources
 -   Projects
 
-## Classes completed: 14/23
+## Classes completed: 15/23
 
-## Current class: Other Types Of Loops (while, for, do)
+## Current class: Assignment 4 (Random Dices and Airline Reservation System)
 
 ## Assignments completed: 3/?
 

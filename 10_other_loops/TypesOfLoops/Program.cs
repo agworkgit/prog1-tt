@@ -11,7 +11,7 @@ namespace TypesOfLoops
         static void Main() // no args
         {
             int prompt = 0;  // control variable
-            const int MAX_TURNS = 10;
+            const int MAX_TURNS = 100;
 
             // create menu in here
             while (prompt != 4) // loop condition, below is the looping block
@@ -47,9 +47,12 @@ namespace TypesOfLoops
                         break;
                     case 3:
                         Console.Write("\n"); // same as an empty WriteLine
-                        for (int count = 1; count <= MAX_TURNS; count += 2) // instead of count++ you can use other values such as count += 2 to count by 2
+                        for (int count = 1; count <= MAX_TURNS; count++) // instead of count++ you can use other values such as count += 2 to count by 2
                         {
-                            Console.WriteLine("Count is: {0}", count);
+                            if (count % 5 == 0) // only print when the remainder is 0
+                            {
+                                Console.WriteLine("Count is: {0}", count);
+                            }
                         }
                         Console.Write("\n"); // same as an empty WriteLine
                         // below won't execute until the loop above is finished
