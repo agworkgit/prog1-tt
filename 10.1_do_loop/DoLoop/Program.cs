@@ -30,7 +30,6 @@ namespace Do_Loop
                     case 2:
                         Console.WriteLine("You chose 2.");
                         break;
-
                     case 3:
                         Console.WriteLine("Goodbye!");
                         break;
