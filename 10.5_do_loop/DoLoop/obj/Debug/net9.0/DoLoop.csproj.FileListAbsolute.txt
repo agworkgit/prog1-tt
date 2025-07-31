@@ -1,0 +1,15 @@
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/bin/Debug/net9.0/DoLoop
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/bin/Debug/net9.0/DoLoop.deps.json
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/bin/Debug/net9.0/DoLoop.runtimeconfig.json
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/bin/Debug/net9.0/DoLoop.dll
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/bin/Debug/net9.0/DoLoop.pdb
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/DoLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/DoLoop.AssemblyInfoInputs.cache
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/DoLoop.AssemblyInfo.cs
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/DoLoop.csproj.CoreCompileInputs.cache
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/DoLoop.sourcelink.json
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/DoLoop.dll
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/refint/DoLoop.dll
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/DoLoop.pdb
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/DoLoop.genruntimeconfig.cache
+/Users/agmacbook/Desktop/COMP100/10.5_do_loop/DoLoop/obj/Debug/net9.0/ref/DoLoop.dll
