@@ -5,3 +5,7 @@
     b. Loops can never overlap
 -   We use nested loops to test for multiple conditions at the same time
     a. An example is navigating through a table with (n) rows by (n) columns or a chess board (8x8)
+
+# Timestamp
+
+29:48/01:07:54
