@@ -32,18 +32,18 @@ namespace Do_Loop
                         break;
 
                     case 3:
-                        Console.WriteLine("");
+                        Console.WriteLine("Goodbye!");
                         break;
                     default:
                         Console.WriteLine("Incorrect entry - Try again!");
                         break;
                 }
-            } while (selection != 3);
 
-            Console.WriteLine();
-            Console.WriteLine("Press a key to exit...");
-            Console.ReadKey();
-            Console.Clear();
+                Console.WriteLine();
+                Console.WriteLine("Press a key to exit...");
+                Console.ReadKey();
+                Console.Clear();
+            } while (selection != 3);
         }
     }
 }
